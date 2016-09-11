@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 glenn.reynaldi StafCS 4096 Sep 11 21:15 .
+drwx--x--x  3 glenn.reynaldi StafCS 4096 Sep 11 21:14 ..
+drwxr-xr-x  8 glenn.reynaldi StafCS 4096 Sep 11 21:14 .git
+-rw-r--r--  1 glenn.reynaldi StafCS    0 Sep 11 21:15 lab01.txt
+-rw-r--r--  1 glenn.reynaldi StafCS    7 Sep 11 20:53 README.md
+drwxr-xr-x  2 glenn.reynaldi StafCS 4096 Sep 11 21:09 SandBox
+drwxr-xr-x  2 glenn.reynaldi StafCS 4096 Sep 11 21:14 week00
+drwxr-xr-x  2 glenn.reynaldi StafCS 4096 Sep 11 21:04 week01
+drwxr-xr-x  2 glenn.reynaldi StafCS 4096 Sep 11 21:04 week02
+drwxr-xr-x  2 glenn.reynaldi StafCS 4096 Sep 11 21:04 week03
+drwxr-xr-x  2 glenn.reynaldi StafCS 4096 Sep 11 21:05 week04
+drwxr-xr-x  2 glenn.reynaldi StafCS 4096 Sep 11 21:05 week05
+drwxr-xr-x  2 glenn.reynaldi StafCS 4096 Sep 11 21:06 week06
+drwxr-xr-x  2 glenn.reynaldi StafCS 4096 Sep 11 21:06 week07
+drwxr-xr-x  2 glenn.reynaldi StafCS 4096 Sep 11 21:06 week08
+drwxr-xr-x  2 glenn.reynaldi StafCS 4096 Sep 11 21:06 week09
+drwxr-xr-x  2 glenn.reynaldi StafCS 4096 Sep 11 21:06 week10
+/home/fasilkom/mahasiswa/g/glenn.reynaldi/os162/week01
