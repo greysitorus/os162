@@ -1,0 +1,2 @@
+Week01 is about CLI. CLI is an acronym for Command Line Interface. CLI is an interface to the OS in which user responds to a visual prompt by typing in a command.
+#Glenn

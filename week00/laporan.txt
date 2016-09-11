@@ -1,1 +1,2 @@
+Week00 is about Git. Git is a version control system that is used for software development.
 #Glenn
